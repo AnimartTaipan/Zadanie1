@@ -44,12 +44,12 @@
             // 
             // label1
             // 
-            this.label1.Location = new System.Drawing.Point(145, 12);
+            this.label1.Location = new System.Drawing.Point(83, 166);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(261, 398);
+            this.label1.Size = new System.Drawing.Size(261, 51);
             this.label1.TabIndex = 1;
-            this.label1.Text = "Программа для практике 4го курса \r\nИП-19-7к Чеблаков\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r" +
-    "\n\r\n\r\n\r\n\r\n\r\n";
+            this.label1.Text = "Программа сделанна во время практики\r\nУчащимся 4го курса \r\nИП-19-7к Чеблаков\r\n\r\n\r" +
+    "\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n";
             // 
             // AboutForm
             // 

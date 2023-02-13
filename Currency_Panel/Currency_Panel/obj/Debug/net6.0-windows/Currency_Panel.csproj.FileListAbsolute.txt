@@ -49,7 +49,6 @@ D:\projects\Currency_Panel\Currency_Panel\obj\Debug\net6.0-windows\Currency_Pane
 D:\projects\Currency_Panel\Currency_Panel\obj\Debug\net6.0-windows\Currency_Panel.csproj.AssemblyReference.cache
 D:\projects\Currency_Panel\Currency_Panel\obj\Debug\net6.0-windows\Currency_Panel.AboutForm.resources
 D:\projects\Currency_Panel\Currency_Panel\obj\Debug\net6.0-windows\Currency_Panel.ExchangeForm.resources
-D:\projects\Currency_Panel\Currency_Panel\obj\Debug\net6.0-windows\Currency_Panel.Form1.resources
 D:\projects\Currency_Panel\Currency_Panel\obj\Debug\net6.0-windows\Currency_Panel.LoginForm.resources
 D:\projects\Currency_Panel\Currency_Panel\obj\Debug\net6.0-windows\Currency_Panel.Properties.Resources.resources
 D:\projects\Currency_Panel\Currency_Panel\obj\Debug\net6.0-windows\Currency_Panel.SpecificCurrencyPanel.resources
